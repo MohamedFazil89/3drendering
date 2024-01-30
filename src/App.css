@@ -1,0 +1,16 @@
+Canvas{
+  height: 100vh !important;
+  /* width: 100%; */
+  scale: 1rem;
+}
+body{
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  color: white;
+}
+.container > h1{
+  margin: auto;
+  padding: 2rem;
+  max-width: 85ch;
+}
